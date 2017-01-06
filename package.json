@@ -1,4 +1,5 @@
 {
   "main": "test.js",
-  "name": "testpackage"
+  "name": "testpackage",
+  "version": "0.0.0"
 }
